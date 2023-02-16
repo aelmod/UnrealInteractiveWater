@@ -15,3 +15,7 @@
 - Character example
 - Dynamic force example
 - Projectile force example
+
+### TODO
+- Fix shallow water simulation
+- Fix river foam
